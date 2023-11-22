@@ -12,8 +12,17 @@
    - [Github](https://github.com/vita-epfl/trajnetplusplusdata/releases/tag/v4.0)
    - [Baeline](https://github.com/vita-epfl/trajnetplusplusbaselines)
 5. NuSenes
-   - [Home page]()
-   - [Github]()
+   - [Home page](https://www.nuscenes.org/nuscenes)
+   - [Github](https://github.com/nutonomy/nuscenes-devkit)
 6. KITTI
-   - [Home page]()
-   - [Github]()
+   - [Home page/Github](https://github.com/Marchetz/KITTI-trajectory-prediction)
+
+# Methods
+## RNN
+Recurrent Neural network-based methods
+## CNN
+Convolutional Neural network-based methods
+## GAN
+Generative Adversarial Network
+## GNN
+Graph Neural Network
