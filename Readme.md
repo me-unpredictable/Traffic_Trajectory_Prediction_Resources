@@ -26,3 +26,4 @@ Convolutional Neural network-based methods
 Generative Adversarial Network
 ## GNN
 Graph Neural Network
+### 2023
