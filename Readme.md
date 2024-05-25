@@ -27,10 +27,10 @@ Generative Adversarial Network
 ## GNN
 Graph Neural Network
 ### 2023
-	- [Graph-based Trajectory Prediction with Cooperative Information](https://arxiv.org/pdf/2310.15692)
-	- [GATraj: A graph- and attention-based multi-agent trajectory prediction model](https://www.sciencedirect.com/science/article/pii/S092427162300268X)
-	- [MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents] (https://doi.org/10.1109/TITS.2023.3248090)
-	- [PTP-STGCN: Pedestrian Trajectory Prediction Based on a Spatio-temporal Graph Convolutional Neural Network](https://link.springer.com/article/10.1007/s10489-022-03524-1)
-	- [SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction](https://doi.org/10.1109/TNNLS.2023.3250485)
-	- [Trajectory prediction for autonomous driving based on multiscale spatial-temporal graph](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12265)
-	- [Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction](https://www.sciencedirect.com/science/article/pii/S0031320323003345)
+- [Graph-based Trajectory Prediction with Cooperative Information](https://arxiv.org/pdf/2310.15692)
+- [GATraj: A graph- and attention-based multi-agent trajectory prediction model](https://www.sciencedirect.com/science/article/pii/S092427162300268X)
+- [MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents] (https://doi.org/10.1109/TITS.2023.3248090)
+- [PTP-STGCN: Pedestrian Trajectory Prediction Based on a Spatio-temporal Graph Convolutional Neural Network](https://link.springer.com/article/10.1007/s10489-022-03524-1)
+- [SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction](https://doi.org/10.1109/TNNLS.2023.3250485)
+- [Trajectory prediction for autonomous driving based on multiscale spatial-temporal graph](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12265)
+- [Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction](https://www.sciencedirect.com/science/article/pii/S0031320323003345)
