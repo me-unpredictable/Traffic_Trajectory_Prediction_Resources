@@ -27,8 +27,8 @@ Generative Adversarial Network
 ## GNN
 Graph Neural Network
 ### 2023
-- [Graph-based Trajectory Prediction with Cooperative Information](https://arxiv.org/pdf/2310.15692)
-- [GATraj: A graph- and attention-based multi-agent trajectory prediction model](https://www.sciencedirect.com/science/article/pii/S092427162300268X)
+- [Graph-based Trajectory Prediction with Cooperative Information](https://arxiv.org/pdf/2310.15692) [~Git~]
+- [GATraj: A graph- and attention-based multi-agent trajectory prediction model](https://www.sciencedirect.com/science/article/pii/S092427162300268X)[Git](https://github.com/mengmengliu1998/GATraj)
 - [MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents](https://doi.org/10.1109/TITS.2023.3248090)
 - [PTP-STGCN: Pedestrian Trajectory Prediction Based on a Spatio-temporal Graph Convolutional Neural Network](https://link.springer.com/article/10.1007/s10489-022-03524-1)
 - [SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction](https://doi.org/10.1109/TNNLS.2023.3250485)
